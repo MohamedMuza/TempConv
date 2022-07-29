@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TempConv</string>
+    <string name="convert">Convert</string>
+    <string name="welcome_message">Welcome to temperature converter</string>
+    <string name="celsius_to_fahrenheit">celsius to fahrenheit converter</string>
+    <string name="enter_value">Enter the celsius value</string>
+</resources>
